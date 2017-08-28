@@ -26,6 +26,10 @@ The target platforms are single heterogeneous nodes and clusters with several ac
 
 Among other research projects, the [Compiler Design Lab](http://compilers.cs.uni-saarland.de) at Saarland University develops the AnyDSL framework including the Impala programming language, the Thorin intermediate language, their type systems and compiler.
 
+![Logo of RRZE, FAU Erlangen-Nuremberg](images/RRZE-Logo.png){: style="width:150px"}
+
+The Erlangen Regional Computing Center (RRZE) at Friedrich-Alexander-University Erlangen-Nuremberg is active in many performance engineering related research projects. The RRZE has developed the [likwid Tool suite](https://github.com/RRZE-HPC/likwid) and the [Kerncraft Performance Modeling Toolkit](https://github.com/RRZE-HPC/kerncraft). Moreover RRZE has developed the Execution-Cache-Memory (ECM) performance model.
+
 ### [JGU Mainz, Scientific Computing and Bioinformatics](http://www.bio.informatik.uni-mainz.de)
 
 ### [JGU Mainz, High Performance Computing](http://www.hpc.informatik.uni-mainz.de)
@@ -33,5 +37,3 @@ Among other research projects, the [Compiler Design Lab](http://compilers.cs.uni
 ### [DFKI, Agents and Simulated Reality](https://www.dfki.de/web/research/asr)
 
 ### [FAU Erlangen-Nürnberg, System Simulation Group](https://www10.informatik.uni-erlangen.de/en/)
-
-### [FAU Erlangen-Nürnberg, RRZE](https://www.rrze.fau.de)
