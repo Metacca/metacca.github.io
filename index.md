@@ -26,7 +26,7 @@ The target platforms are single heterogeneous nodes and clusters with several ac
 
 Among other research projects, the [Compiler Design Lab](http://compilers.cs.uni-saarland.de) at Saarland University develops the AnyDSL framework including the Impala programming language, the Thorin intermediate language, their type systems and compiler.
 
-![Logo of DFKI, German Research Center for Artificial Intelligence](images/DFKI-Logo.jpg){: style="width:150px"}
+![Logo of DFKI, German Research Center for Artificial Intelligence](images/DFKI-Logo.jpg){: style="width:200px"}
 
 The research department [Agents and Simulated Reality](https://www.dfki.de/web/research/asr) at the German Research Center for Artificial Intelligence (DFKI) develops the AnyDSL framework with focus on acceleration of rendering applications using ray tracing and global illumination on multi-core CPUs, GPUs, and Xeon Phis.
 
