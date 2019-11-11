@@ -28,14 +28,14 @@ Among other research projects, the [Compiler Design Lab](http://compilers.cs.uni
 
 ![Logo of DFKI, German Research Center for Artificial Intelligence](images/DFKI-Logo.jpg){: style="width:200px"}
 
-The research department [Agents and Simulated Reality](https://www.dfki.de/web/research/asr) at the German Research Center for Artificial Intelligence (DFKI) develops the AnyDSL framework with focus on acceleration of rendering applications using ray tracing and global illumination on multi-core CPUs, GPUs, and Xeon Phis.
+The research department [Agents and Simulated Reality](https://www.dfki.de/web/forschung/forschungsbereiche-gruppen/agenten-und-simulierte-realitaet) at the German Research Center for Artificial Intelligence (DFKI) develops the AnyDSL framework with focus on acceleration of rendering applications using ray tracing and global illumination on multi-core CPUs, GPUs, and Xeon Phis.
 
 ![Logo of RRZE, FAU Erlangen-Nuremberg](images/RRZE-Logo.png){: style="width:150px"}
 
 The Erlangen Regional Computing Center (RRZE) at Friedrich-Alexander-University Erlangen-Nuremberg is active in many performance engineering related research projects. The RRZE has developed the [likwid Tool suite](https://github.com/RRZE-HPC/likwid) and the [Kerncraft Performance Modeling Toolkit](https://github.com/RRZE-HPC/kerncraft). Moreover RRZE has developed the Execution-Cache-Memory (ECM) performance model.
 
-### [JGU Mainz, Scientific Computing and Bioinformatics](http://www.bio.informatik.uni-mainz.de)
+### [JGU Mainz, Scientific Computing and Bioinformatics](https://www.bio.informatik.uni-mainz.de)
 
-### [JGU Mainz, High Performance Computing](http://www.hpc.informatik.uni-mainz.de)
+### [JGU Mainz, High Performance Computing](https://www.hpc.informatik.uni-mainz.de)
 
-### [FAU Erlangen-Nürnberg, System Simulation Group](https://www10.informatik.uni-erlangen.de/en/)
+### [FAU Erlangen-Nürnberg, System Simulation Group](https://www.cs10.tf.fau.de)
