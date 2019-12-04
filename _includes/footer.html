@@ -1,11 +1,13 @@
 <footer>
-            <div class="row">
-                <div class="col-lg-12">
-                    <div style="float: right" class="footer">
-               &copy;{{ site.time | date: "%Y"  }} {{site.company_name}}. All rights reserved. <br />
-{% if page.last_updated %}<span>Page last updated:</span> {{page.last_updated}}<br/>{% endif %} Site last generated: {{ site.time | date: "%b %-d, %Y"  }} <br />
-                    </div>
-                    <img alt="Funded by the BMBF" src="images/BMBF-funded.svg" />
-                </div>
+    <div class="row">
+        <div class="col-lg-12">
+            <div style="float: right" class="footer">
+                &copy;{{ site.time | date: "%Y"  }} {{ site.company_name }}. All rights reserved.<br />
+                {% if page.last_updated %}<span>Page last updated:</span> {{ page.last_updated }}<br />{% endif %}
+                Site last generated: {{ site.time | date: "%b %-d, %Y"  }}<br />
+                <a href="{{ site.imprint }}">Imprint</a><br />
             </div>
+            <img alt="Funded by the BMBF" src="images/BMBF-funded.svg" />
+        </div>
+    </div>
 </footer>
